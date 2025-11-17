@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Speedy Wheels — Car Rental (WE22)
 
 This is a small PHP project for an employee dashboard/login for the Speedy Wheels car rental system.
@@ -16,3 +17,7 @@ Security
 Notes
 
 - If you want, I can initialize the git repository and make the first commit for you. Tell me whether you want a remote (GitHub) and provide the repo URL if so.
+=======
+# Speedywheels
+Car Rental Management System
+>>>>>>> 6b65326b1495d95be1fd894a06e7583c417c9560
