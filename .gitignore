@@ -1,0 +1,19 @@
+# PHP runtime files
+*.log
+*.cache
+*.tmp
+
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive config files
+includes/config.php
+
+
