@@ -1,0 +1,28 @@
+# PHP / WAMP
+/vendor/
+/.env
+/.env.local
+/.phpunit.result.cache
+*.log
+*.cache
+
+# Composer
+composer.lock
+
+# Node
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local config/credentials (do not commit)
+includes/db.php
+includes/config.php
+
+# Images or large assets (optional)
+Images/
