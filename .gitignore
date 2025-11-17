@@ -16,5 +16,6 @@ Thumbs.db
 # Sensitive config files
 includes/db.php
 includes/config.php
+screenshotsAndVideos/*.mp4
 
 
